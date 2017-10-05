@@ -47,7 +47,7 @@ halt
   - `LXI B, 3030h`
   - `MOV M, C`
 
- *** What is the `M` in `MOV M,C` means?
+ *** What is the `M` in `MOV M,C` means?***
 
  5. What is register A call?
 
